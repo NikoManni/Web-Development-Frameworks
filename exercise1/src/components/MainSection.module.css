@@ -1,0 +1,33 @@
+.sidebarcontainer
+{
+    padding-left: 80px;
+    padding-right: 30px;   
+}
+
+.sidebarheader
+{
+    font-size:x-large;
+    font-weight: 700;
+}
+
+.header
+{
+    font-size:xx-large;
+    font-weight: 700; 
+}
+
+
+.header2
+{
+    font-size: large;
+    font-weight: 600;
+
+}
+.mainwindow
+{
+    margin-left: 3cm;
+    background-color:rgb(240, 240, 240);
+    padding-left: 25px;
+    padding-right: 60px;
+    
+}
