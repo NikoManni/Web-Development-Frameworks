@@ -1,0 +1,158 @@
+{
+    "items": [
+        {
+            "id":1,
+            "brand": "Eleiko",
+            "type": "Weightlifting Competition Plate",
+            "color": "Black",
+            "weight": "50kg",
+            "price": 1850,
+            "image": "eleiko50.jpg"
+        },
+        {
+            "id":2,
+            "brand": "Eleiko",
+            "type": "Weightlifting Competition Plate",
+            "color": "Red",
+            "weight": "25kg",
+            "price": 430,
+            "image": "eleiko25.jpg"
+        },
+        {
+            "id":3,
+            "brand": "Eleiko",
+            "type": "Weightlifting Competition Plate",
+            "color": "Blue",
+            "weight": "20kg",
+            "price": 380,
+            "image": "eleiko20.jpg"
+        },
+        {
+            "id":4,
+            "brand": "Eleiko",
+            "type": "Weightlifting Competition Plate",
+            "color": "Yellow",
+            "weight": "15kg",
+            "price": 330,
+            "image": "eleiko15.jpg"
+        },
+        {
+            "id":5,
+            "brand": "Eleiko",
+            "type": "Weightlifting Competition Plate",
+            "color": "Green",
+            "weight": "10kg",
+            "price": 280,
+            "image": "eleiko10.jpg"
+        },
+        {
+            "id":6,
+            "brand": "Eleiko",
+            "type": "Weightlifting Training Plate",
+            "color": "White",
+            "weight": "5kg",
+            "price": 90,
+            "image": "eleiko5.jpg"
+        },
+        {
+            "id":7,
+            "brand": "Eleiko",
+            "type": "Weightlifting Training Plate",
+            "color": "Red",
+            "weight": "2.5kg",
+            "price": 70,
+            "image": "eleiko2,5.jpg"
+        },
+        {
+            "id":10,
+            "brand": "Rogue",
+            "type": "Deadlifting Bumper Plate",
+            "color": "Black",
+            "weight": "25kg",
+            "price": 180,
+            "image": "rogue25.jpg"
+        },
+        {
+            "id":11,
+            "brand": "Rogue",
+            "type": "Deadlifting Bumper Plate",
+            "color": "Black",
+            "weight": "20kg",
+            "price": 150,
+            "image": "rogue20.jpg"
+        },
+        {
+            "id":12,
+            "brand": "Rogue",
+            "type": "Deadlifting Bumper Plate",
+            "color": "Black",
+            "weight": "15kg",
+            "price": 120,
+            "image": "rogue15.jpg"
+        },
+        {
+            "id":13,
+            "brand": "Rogue",
+            "type": "Deadlifting Bumper Plate",
+            "color": "Black",
+            "weight": "10kg",
+            "price": 75,
+            "image": "rogue10.jpg"
+        },
+        {
+            "id":14,
+            "brand": "Rogue",
+            "type": "Deadlifting Bumper Plate",
+            "color": "Black",
+            "weight": "5kg",
+            "price": 55,
+            "image": "rogue5.jpg"
+        },
+        {
+            "id":8,
+            "brand": "Eleiko",
+            "type": "Men's Weightlifting Barbell",
+            "color": "Metal",
+            "weight": "20kg",
+            "price": 1150,
+            "image": "bar20.jpg"
+        },
+        {
+            "id":9,
+            "brand": "Eleiko",
+            "type": "Women's Weightlifting Barbell",
+            "color": "Metal",
+            "weight": "15kg",
+            "price": 920,
+            "image": "bar15.jpg"
+        },
+        {
+            "id":15,
+            "brand": "Rogue",
+            "type": "Weightlifting Barbell",
+            "color": "Black/Red",
+            "weight": "20kg",
+            "price": 420,
+            "image": "redroguebar.jpg"
+        },
+        {
+            "id":16,
+            "brand": "Rogue",
+            "type": "Deadlifting Barbell",
+            "color": "Black",
+            "weight": "20kg",
+            "price": 395,
+            "image": "blackroguebar.jpg"
+        },
+        
+        {
+            "id":17,
+            "brand": "Eleiko",
+            "type": "Weightlifting Rack",
+            "color": "Black",
+            "weight": "NULL",
+            "price": 10000,
+            "image": "eleikoRack.jpeg"
+        }
+    ]
+}

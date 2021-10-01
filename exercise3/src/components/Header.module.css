@@ -1,0 +1,23 @@
+.headerBackground
+{
+    background-color: grey;
+}
+.container
+{
+    display: flex;
+    color:white;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+    margin-left: 80px;
+    margin-right: auto;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: 700;
+}
+.searchBar
+{
+    color: white;
+    font-weight: 500;
+    padding-left: 310px;
+}
